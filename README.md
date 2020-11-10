@@ -5,7 +5,7 @@
 - Sou um FullStack Developer e atuo tanto com a stack .Net quanto JS :computer:
 
 ### :zap: &nbsp; Algo a mais
- - :rocket:  &nbsp; Estou trabalhando na **IVIA Tecnologia**
+ - :rocket:  &nbsp; Estou trabalhando na **RADIX Engenharia**
  - :purple_heart: &nbsp; Buscando colaborar com meus conhecimento nos projetos tanto Back-end quanto em Front-end usando .Net/React/Angular.
  - :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox e aprender também
  - :computer: &nbsp; Minha stack: .Net, .Net Core, ReactJS, Node.js, React Native, Typescript, Java Script, SQL Server, PostGre... e o que aparecer.
