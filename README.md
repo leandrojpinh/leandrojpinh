@@ -16,3 +16,12 @@
 - [![Linkedin Badge](https://img.shields.io/badge/lejapinh-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lejapinh/)](https://www.linkedin.com/in/lejapinh/) 
 - [![Gmail Badge](https://img.shields.io/badge/leandro.jpinh%40gmail.com-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandro.jpinh@gmail.com)](mailto:leandro.jpinh@gmail.com)
 - [![Git Badge](https://img.shields.io/badge/leandrojpinh-GitHub-lightgrey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrojpinh)](https://github.com/leandrojpinh)
+
+### Technologies
+<div>
+  <a href="https://github.com/leandrojpinh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrojpinh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrojpinh&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+ 
+ ![ Animação de cobra ](https://github.com/leandrojpinh/leandrojpinh/blob/output/github-contribution-grid-snake.svg)
