@@ -17,7 +17,7 @@
 - [![Gmail Badge](https://img.shields.io/badge/leandro.jpinh%40gmail.com-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandro.jpinh@gmail.com)](mailto:leandro.jpinh@gmail.com)
 - [![Git Badge](https://img.shields.io/badge/leandrojpinh-GitHub-lightgrey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leandrojpinh)](https://github.com/leandrojpinh)
 
-### Technologies
+### 👨‍💻 Technologies
 <div>
   <a href="https://github.com/leandrojpinh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrojpinh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
