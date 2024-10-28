@@ -1,16 +1,11 @@
-## Hi there 👋, I'm Leandro Jackson, mas pode chamar de Lejapinh, da no mesmo :satisfied:
+## Hi there 👋, I'm Leandro Jackson
 
-### :speech_balloon: &nbsp; Sobre mim
-- Desde quando conheci desenvolvimento, identifiquei que isso seria a minha carreira pra vida e como amo tudo isso :heart_eyes:.
-- Sou um FullStack Developer e atuo tanto com a stack .Net quanto JS :computer:
+### :speech_balloon: &nbsp; About me
+- I'm from Ceará, I'm 27 years old, I have a degree in Systems Analysis and Development with a specialization in Mobile Development. :heart_eyes:.
 
-### :zap: &nbsp; Algo a mais
- - :rocket:  &nbsp; Estou trabalhando na **RADIX Engenharia**
- - :purple_heart: &nbsp; Buscando colaborar com meus conhecimento nos projetos tanto Back-end quanto em Front-end usando .Net/React/Angular.
- - :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox e aprender também
- - :computer: &nbsp; Minha stack: .Net, .Net Core, ReactJS, Node.js, React Native, Typescript, Java Script, SQL Server, PostGre... e o que aparecer.
- - 💬  &nbsp; Sobre mim: Curto ficar e sair com os amigos pra provar um Hamburguer, ou jogar um vôlei na praia, tirar uma noite pra jogar FIFA com os amigos e conversar sobre como está a vida com eles, gosto de coisas futuristas, tecnologias, games, e as vezes consigo carregar umas partidas de LoL, as vezes não, mas o que importa é se divertir.
- 
+### :zap: &nbsp; More...
+ - :purple_heart: &nbsp; My main experiences are in .Net, React/React Native and Angular frameworks. I have worked on different types of projects in the areas of people management(RH), telecommunications, industry, watchmaking and services.
+ - 💬  &nbsp; I work in C# and JavaScript languages ​​and a little Java/Swift. Furthermore, I like to venture into other areas that involve data, things that involve database, using SQL Server, Postgre and MongoDB, also diverse reports and in the area of ​​design, creating interfaces, prototyping UI/UX ideas. All technologies that I've worked with are: C# | Aspnet | EntityFramework | Swagger | SqlServer | Dapper | IdentityServer | Razor | Visual Studio | CQRS | AWS | Azure | Jenkins | JavaScript | TypeScript | React | React Native | Angular | NextJs | NodeJs | Express | Tailwind | Bootstrap | Java | Swift | Android | iOS | Firebase | Postgre...
  
  ### :email: &nbsp; Networking
 - [![Linkedin Badge](https://img.shields.io/badge/lejapinh-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lejapinh/)](https://www.linkedin.com/in/lejapinh/) 
